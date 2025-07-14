@@ -1,0 +1,10 @@
+huggingface-hub
+langchain
+faiss-cpu
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+sentence-transformers
+streamlit
